@@ -18,4 +18,5 @@
 {
   'chromium_url': 'http://src.chromium.org/svn/trunk/src',
   'chromium_revision': '231322',
+  'chromium_revision_git': '43833c1e1f3e1d723993d9be5713ea64c883cbd8',
 }
